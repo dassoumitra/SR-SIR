@@ -1,0 +1,15 @@
+1/SELECT fname,lname FROM `cust`;
+2.SELECT * FROM `cust`;
+3.SELECT fname,area FROM `cust`;
+4.SELECT type FROM `movie`;
+4/ii/SELECT DISTINCT type FROM `movie`;
+5.SELECT fname,lname FROM `cust` WHERE fname LIKE '_a%';
+6.SELECT * FROM cust WHERE lname like 's%' OR lname LIKE 'j%';
+7.SELECT fname,lname FROM `cust` WHERE area LIKE '_a%';
+8.SELECT * FROM `cust` WHERE area in('da','mu','gh');
+9.SELECT * FROM `cust` WHERE phone_no>5550000;
+10.SELECT * FROM invoice WHERE issue_date>='1993-09-01' and issue_date<='1993-09-30';
+11.SELECT * FROM `invoice` WHERE Cust_id in('a01','a02');
+
+12.SELECT type,COUNT(title),max(price) FROM movie GROUP BY type;GROUP BY CLAUSE
+13.

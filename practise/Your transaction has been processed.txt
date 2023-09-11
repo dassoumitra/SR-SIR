@@ -1,0 +1,37 @@
+Your transaction has been processed.
+
+Please note the following details for future reference:
+
+GRIPS Payment ID: 120620232009366936
+
+Government Reference Number (GRN) for individual payments within transaction:
+192023240093669372
+
+
+
+
+Your transaction has been processed.
+
+Please note the following details for future reference:
+
+GRIPS Payment ID: 120620232009367869
+
+Government Reference Number (GRN) for individual payments within transaction:
+192023240093678701
+
+
+
+
+
+
+
+
+
+Your transaction has been processed.
+
+Please note the following details for future reference:
+
+GRIPS Payment ID: 120620232009385208
+
+Government Reference Number (GRN) for individual payments within transaction:
+192023240093852095
